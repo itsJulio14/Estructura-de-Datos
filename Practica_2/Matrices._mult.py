@@ -14,7 +14,7 @@ for fila1 in range(len(x)):
             # print(x[fila1][fila2], y[fila2][col2])
             res += (x[fila1][fila2] * y[fila2][col2])
             
-        
+    
         # print()
         print(res)
         z[fila1][col2] = res

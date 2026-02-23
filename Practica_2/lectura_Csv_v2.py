@@ -37,7 +37,6 @@ def desviacionEst(lista):
     return desviacion_est
 
 
-
 for col in df_numerico.columns[1:]:
     lista = list(df_numerico[col])  # Convertir columna a lista
 
