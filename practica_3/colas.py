@@ -18,7 +18,6 @@ def size(lista):
 
 
 lista =[]
-
 # print(is_empty(lista))
 enque(lista,1)
 print(lista)
