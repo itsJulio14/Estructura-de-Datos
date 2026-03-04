@@ -55,6 +55,7 @@ retiro_w(saldos,500)
 retiro_w(saldos,500)
 retiro_w(saldos,500)
 retiro_w(saldos,500)
+
 deposito_w(saldos,300)
 deposito_w(saldos,300)
 deposito_w(saldos,300)
@@ -63,6 +64,7 @@ deposito_w(saldos,300)
 
 # enque(retiro,500)
 # retirosss(saldos,retiro)
+
 print(saldos)
 print(retiro)
 print(deposito)
